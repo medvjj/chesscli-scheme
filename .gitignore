@@ -1,0 +1,21 @@
+# Guile Scheme compiled files
+*.go
+
+# Program logs
+chess-session.log
+*.log
+
+# Local chess engine binaries (if placed in the repository by mistake)
+/sf19
+/stockfish
+/stockfish-*
+
+# Editor and temporary files
+*~
+.#*
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
