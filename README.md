@@ -275,7 +275,6 @@ The project requirements, design decisions, feature selection, and testing were 
 - The non-interactive version still waits for the `p`, `s`, `q` commands after loading the configuration.
 - The program communicates with the engine using the Universal Chess Interface (UCI) protocol.
 - Stockfish is a separate project and is not bundled with this program.
-- The project license has not yet been selected. Add a `LICENSE` file before publishing if you want to specify how others may use, modify, and redistribute your code.
 
 ## License
 
